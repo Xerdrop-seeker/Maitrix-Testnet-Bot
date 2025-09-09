@@ -30,7 +30,7 @@ const provider = new JsonRpcProvider(rpcUrl);
 const wallet = new Wallet(privateKey, provider);
 
 
-// ABIs
+// ABIs arc20
 const ABI_ERC20 = [
     "function approve(address spender, uint256 amount) public returns (bool)",
     "function balanceOf(address account) view returns (uint256)",
