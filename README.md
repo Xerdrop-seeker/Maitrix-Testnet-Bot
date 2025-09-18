@@ -1,7 +1,7 @@
 
 # Maitrix Testnet Bot 🤖
 
-An automated bot for interacting with the Maitrix Testnet ecosystem, handling faucet claims, token minting, and staking operations.
+An automated bot for interacting with the Maitrix Testnet ecosystem, handling faucet claims, token minting, and staking operations
 
 **GitHub Repository**: https://github.com/Xerdrop-seeker/Maitrix-Testnet-Bot
 
